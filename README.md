@@ -1,2 +1,2 @@
-# threeJS-Polyhedron
+# threeJS-Project
 Created with CodeSandbox
