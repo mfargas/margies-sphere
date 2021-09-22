@@ -1,0 +1,21 @@
+.container{
+    margin: auto;
+    max-width: 600px;
+    font-family: "-apple-system, Roboto, sans-serif, serif";
+}
+
+.heading{
+    color: seagreen;
+}
+
+.navLinks{
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+.navLinkItem {
+    padding-right: 2rem;
+}
+.navLinkText{
+    color: black;
+}
